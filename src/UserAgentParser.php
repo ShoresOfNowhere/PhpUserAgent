@@ -98,7 +98,7 @@ REGEX
 		preg_match_all(<<<'REGEX'
 %(?P<browser>Camino|Kindle(\ Fire)?|Firefox|Iceweasel|IceCat|Safari|MSIE|Trident|AppleWebKit|
 TizenBrowser|(?:Headless)?Chrome|YaBrowser|Vivaldi|IEMobile|Opera|OPR|Silk|Midori|(?-i:Edge)|EdgA?|CriOS|UCBrowser|Puffin|
-OculusBrowser|SamsungBrowser|SailfishBrowser|XiaoMi/MiuiBrowser|
+OculusBrowser|SamsungBrowser|SailfishBrowser|XiaoMi/MiuiBrowser|Outlook|MSOffice|Thunderbird|
 Baiduspider|Applebot|Facebot|Googlebot|YandexBot|bingbot|Lynx|Version|Wget|curl|
 Valve\ Steam\ Tenfoot|
 NintendoBrowser|PLAYSTATION\ (?:\d|Vita)+)
